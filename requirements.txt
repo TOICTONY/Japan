@@ -2,14 +2,13 @@ aiohttp
 aiofiles
 aioshutil
 anytree==2.8.0
-ffmpeg==4.4
 apscheduler
 aria2p
 asyncio
 beautifulsoup4
+bencoding
 cinemagoer
 cloudscraper
-cryptography
 dnspython
 feedparser
 flask
@@ -18,7 +17,6 @@ google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
 gunicorn
-git+https://github.com/zevtyardt/lk21.git
 httpx
 langcodes[data]
 lxml
@@ -30,11 +28,10 @@ pillow
 psutil
 pybase64
 pycountry
-pymongo
-yt-dlp==2023.10.07
-pyrofork==2.2.11
 python-dotenv
+pyshorteners
 python-magic
+quoters
 qbittorrent-api
 requests
 speedtest-cli
@@ -43,3 +40,5 @@ tenacity
 tgcrypto
 uvloop
 xattr
+yt-dlp
+git+https://github.com/5hojib/pyrogram.git@dev
